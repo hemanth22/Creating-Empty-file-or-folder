@@ -4,7 +4,7 @@
 #echo "Hint: /home/username/somepath/"
 #read -p "Enter path to create empty file: " cc
 echo "Initializing empty folder creation script"
-$(cat list.txt | xargs -I {} mkdir -p .)
+$(cat list.txt | xargs -I {} mkdir -p /Creating-Empty-file-or-folder/)
 echo "Empty creation Completed"
 echo "Listing empty folders created after script execution"
 ls -la

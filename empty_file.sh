@@ -4,7 +4,7 @@
 #echo "Hint: /home/username/somepath/"
 #read -p "Enter path to create empty file: " cc
 echo "Initializing empty file creation"
-$(cat lis.txt | xargs -I {} touch .)
+$(cat lis.txt | xargs -I {} touch /Creating-Empty-file-or-folder/ )
 echo "Empty file creation Done"
 echo "Listing empty file created using script"
 ls -la
