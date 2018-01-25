@@ -7,6 +7,6 @@ echo "Initializing empty folder creation script"
 $(cat lis.txt | xargs -I {} mkdir -p /Creating-Empty-file-or-folder/{})
 echo "Empty creation Completed"
 echo "Listing empty folders created after script execution"
-ls -d
+ls -d */
 echo "Activating clean docker policy"
 exit
