@@ -8,5 +8,5 @@ echo "Executing empty folde creation script"
 ./empty_folder.sh
 echo "Executing clean docker policy"
 cd ..
-#rm -rf Creating-Empty-file-or-folder
+rm -rf Creating-Empty-file-or-folder
 echo "Clean docker policy completed" 
