@@ -16,6 +16,6 @@ which you have mention in text file.
 
 #Travis CI Live Build status
 
-Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+Master Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
-master|[![Build Status](https://travis-ci.org/hemanth22/Creating-Empty-file-or-folder.svg?branch=master)](https://travis-ci.org/hemanth22/Creating-Empty-file-or-folder)
+[![DockerCentOS](DockerCentOS.png)](https://travis-ci.org/hemanth22)|[![Build Status](https://travis-ci.org/hemanth22/Creating-Empty-file-or-folder.svg?branch=master)](https://travis-ci.org/hemanth22/Creating-Empty-file-or-folder)
