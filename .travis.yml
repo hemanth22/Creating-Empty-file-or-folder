@@ -19,5 +19,4 @@ script:
 
 # Run container detached
 #- docker run -it --name ${container_id} centos:7 /bin/bash -c "yum -y install epel-release;yum -y install git;git clone https://github.com/hemanth22/CSVToCustomDSV.git;cd CSVToCustomDSV;./csv2dsv.sh"
-- docker run -it --name 1121 centos:latest /bin/bash -c "yum -y install git;git clone https://github.com/hemanth22/Creating-Empty-file-or-folder.git;cd Creating-Empty-file-or-folder;./one.sh"
-
+- docker run -it --name ${container_id} centos:7 /bin/bash -c "yum -y install git;git clone https://github.com/hemanth22/Creating-Empty-file-or-folder.git;cd Creating-Empty-file-or-folder;./one.sh"
