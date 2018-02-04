@@ -18,7 +18,7 @@ which you have mention in text file.
 
 Master Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)|[![GitLab CI logo](GitLabLogos.png)](https://gitlab.com/)
 ---|---|---
-[![DockerCentOS](DockerCentOS.png)](https://travis-ci.org/hemanth22)|[![Build Status](https://travis-ci.org/hemanth22/Creating-Empty-file-or-folder.svg?branch=master)](https://travis-ci.org/hemanth22/Creating-Empty-file-or-folder)|[![GitLab CI](https://img.shields.io/travis/rust-lang/rust.svg)](https://gitlab.com/hemanth22/Fibonocci-CPP)
+[![DockerCentOS](DockerCentOS.png)](https://travis-ci.org/hemanth22)|[![Build Status](https://travis-ci.org/hemanth22/Creating-Empty-file-or-folder.svg?branch=master)](https://travis-ci.org/hemanth22/Creating-Empty-file-or-folder)|[![GitLab CI](https://img.shields.io/travis/rust-lang/rust.svg)](https://gitlab.com/hemanth22/Creating-Empty-file-or-folder.git)
 
 Branch | Code Coverage
 ---|---
